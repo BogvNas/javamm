@@ -9,8 +9,8 @@
         <module name="ide" />
         <module name="code" />
         <module name="compiler" />
-        <module name="interpreter" />
         <module name="vm" />
+        <module name="interpreter" />
         <module name="temp" />
         <module name="library" />
         <module name="cmd" />
