@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="860a2827-a54d-4a54-b400-9cec3f1c04bc" name="Default Changelist" comment="Update project structure">
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTICE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkstyle.xml" afterDir="false" />
+    <list default="true" id="860a2827-a54d-4a54-b400-9cec3f1c04bc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +34,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/checkstyle.xml" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -57,7 +54,7 @@
       <workItem from="1586173069837" duration="4275000" />
       <workItem from="1586179217472" duration="60000" />
       <workItem from="1586179355819" duration="43000" />
-      <workItem from="1586179492913" duration="949000" />
+      <workItem from="1586179492913" duration="2077000" />
     </task>
     <task id="LOCAL-00001" summary="Init project structure">
       <created>1586177757501</created>
@@ -73,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586179240228</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update project structure">
+      <created>1586180570972</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586180570972</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,10 +110,10 @@
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
     <state x="2507" y="342" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1586180475368" />
-    <state x="2385" y="101" key="CommitChangelistDialog2" timestamp="1586179250982">
+    <state x="2385" y="101" key="CommitChangelistDialog2" timestamp="1586180564314">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state x="2385" y="101" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1586179250982" />
+    <state x="2385" y="101" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1586180564314" />
     <state x="2540" y="259" key="FileChooserDialogImpl" timestamp="1586180314727">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
@@ -130,14 +134,14 @@
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
     <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1586179189278" />
-    <state x="2261" y="147" key="SettingsEditor" timestamp="1586180465208">
+    <state x="2261" y="147" key="SettingsEditor" timestamp="1586180988369">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state x="2261" y="147" key="SettingsEditor/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1586180465208" />
-    <state x="2352" y="238" key="Vcs.Push.Dialog.v2" timestamp="1586177815120">
+    <state x="2261" y="147" key="SettingsEditor/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1586180988369" />
+    <state x="2352" y="238" key="Vcs.Push.Dialog.v2" timestamp="1586180596250">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state x="2352" y="238" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1586177815120" />
+    <state x="2352" y="238" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1586180596250" />
     <state x="2142" y="200" key="new project wizard" timestamp="1586174784110">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>

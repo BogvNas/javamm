@@ -1,16 +1,16 @@
-  # https://git-scm.com/docs/gitignore
+# https://git-scm.com/docs/gitignore
 
-  # Build results
-  target
+# Build results
+target
 
-  # IntelliJ IDEA configurations
-  .idea
-  *.iml
+# IntelliJ IDEA configurations
+.idea
+*.iml
 
-  # Eclipse configurations
-  .progect
-  .classpath
-  .settigs
+# Eclipse configurations
+.project
+.classpath
+.settings
 
-  # NetBeans configurations
-  nb*.xml
+# NetBeans configurations
+nb*.xml
